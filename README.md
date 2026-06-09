@@ -150,9 +150,9 @@ function bfsFrames(graph, start) {
 
 | Section | Owner |
 |---------|-------|
-| Graph Algorithms | **Surya Sashank** (me) **Meher Kamal**|
-| Sorting Algorithms | **K.Naveen** **P.Maheedhar** |
+| Graph Algorithms | **Surya Sashank** (me),**Meher Kamal**|
+| Sorting Algorithms | **K.Naveen**,**P.Maheedhar** |
 | Dynamic Programming | **S.Nikhil** |
-| Greedy & Divide & Conquer | **Hujith Reddy**  **D.BALAJI**|
+| Greedy & Divide & Conquer | **Hujith Reddy**,**D.BALAJI**|
 
 ---
