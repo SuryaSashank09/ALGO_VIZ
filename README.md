@@ -10,8 +10,6 @@
 [![HTML5](https://img.shields.io/badge/Built%20With-HTML5%20%2B%20JS-orange?style=for-the-badge&logo=html5)](.)
 [![Algorithms](https://img.shields.io/badge/Algorithms-40%2B-blue?style=for-the-badge&logo=buffer)](.)
 [![No Dependencies](https://img.shields.io/badge/Dependencies-Zero-green?style=for-the-badge)](.)
-[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
-
 ### 🌐 [https://gameofalgos.netlify.app/](https://gameofalgos.netlify.app/)
 
 </div>
@@ -152,14 +150,9 @@ function bfsFrames(graph, start) {
 
 | Section | Owner |
 |---------|-------|
-| Graph Algorithms | **Surya Sashank** (me) |
-| Sorting Algorithms | Team Member |
-| Dynamic Programming | Team Member |
-| Trees & Data Structures | Team Member |
-| Greedy & Divide & Conquer | Team Member |
+| Graph Algorithms | **Surya Sashank** (me) **Meher Kamal**|
+| Sorting Algorithms | **K.Naveen** **P.Maheedhar** |
+| Dynamic Programming | **S.Nikhil** |
+| Greedy & Divide & Conquer | **Hujith Reddy**  **D.BALAJI**|
 
 ---
-
-## 📄 License
-
-MIT © 2026
